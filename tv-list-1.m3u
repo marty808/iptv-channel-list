@@ -27,8 +27,8 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Süd HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" tvg-id="BRFernsehenSud.de",BR Fernsehen Süd HD
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="MDR Thüringen HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-id="MDRFernsehenThuringen.de",MDR Thüringen HD
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-id="MDRSachsen.de",MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" tvg-id="RBBBerlin.de",rbb Berlin HD
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="phoenix HD" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" tvg-id="Phoenix.de",phoenix HD
@@ -141,10 +141,10 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" tvg-id="BR.de",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-id="MDRSachsen.de",MDR Sachsen HD
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-id="MDRS-Anhalt.de",MDR Sachsen-Anhalt HD
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 tvg-name="MDR Thüringen HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-id="MDRFernsehenThuringen.de",MDR Thüringen HD
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 #EXTINF:-1 tvg-name="rbb Brandenburg HD" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" tvg-id="rbbBrandenburg.de",rbb Brandenburg HD
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" tvg-id="DeutscheWelleDE.de",Deutsche Welle
